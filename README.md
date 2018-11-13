@@ -21,3 +21,9 @@ El sistema le informará que su sitio se encuentra disponible en la dirección i
 
 
 #### Paso 4.
+
+Navegue a **Settings > GitHub Pages > Theme Chooser** y Seleccione **Minimal**. Espere unos segundos y vuela a visualizar su sitio Web.
+
+![IMG"](img/sitio-2.jpg)
+
+
