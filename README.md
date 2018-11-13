@@ -1,7 +1,7 @@
 # Sitio estático usando GitHub Pages
 
 
-Esta es una demostración de como crear sitios web alojados en GitHub usando GitHub pages. A continuación se describe el proceso de creación. 
+Esta es una demostración de como crear sitios web alojados en GitHub usando GitHub pages. A continuación se describe el proceso de creación. El sitio web de este repositorio es publicado en https://jdvelasq.github.io/CDA-09-1-github-pages/
 
 #### Paso 1.
 
