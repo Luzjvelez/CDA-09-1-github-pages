@@ -32,3 +32,5 @@ Navegue a **Settings > GitHub Pages > Theme Chooser** y Seleccione **Minimal**. 
 Agregue archivos al repositorio, tal como notebooks de Jupyter o imágenes. Agregue hipervínculos a este documento. En este ejemplo se agregó el archivo `notebook.ipynb` y el siguiente vínculo:
 
 Haga click [aquí](notebook.ipynb) para **Descargar** el notebook.
+
+Haga click [aquí](notebook.html) para **Ver** el notebook.
