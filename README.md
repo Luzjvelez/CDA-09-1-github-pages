@@ -33,4 +33,4 @@ Agregue archivos al repositorio, tal como notebooks de Jupyter o imágenes. Agre
 
 Haga click [aquí](notebook.ipynb) para **Descargar** el notebook.
 
-Haga click [aquí](notebook.html) para **Ver** el notebook.
+Haga click [aquí](/notebook.html) para **Ver** el notebook.
