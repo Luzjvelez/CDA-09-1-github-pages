@@ -45,4 +45,6 @@ Luego, agregue el hipervínculo a la página del libro.
 
 > Haga click [aquí](/notebook.html) para **Ver** el notebook.
 
+#### Paso 7 (Opcional)
 
+Personalice su sitio usando Jekyll. Haga click [aquí](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/) para ir a la página de ayuda de GitHub.
