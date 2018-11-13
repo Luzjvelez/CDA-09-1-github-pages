@@ -15,5 +15,9 @@ Navegue a **Settings > GitHub Pages > Source** y seleccione  **Master Branch**.
 
 #### Paso 3.
 
-La primera versión de su sitio 
+El sistema le informará que su sitio se encuentra disponible en la dirección indicada abajo.
 
+![IMG1](img/sitio-1.jpg)
+
+
+#### Paso 4.
